@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AccountName</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Account name</shortDescription>
+        <value>Account name</value>
+    </labels>
+    <labels>
+        <fullName>AddressInformation</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Address Information</shortDescription>
+        <value>Address Information</value>
+    </labels>
+    <labels>
+        <fullName>BillTo</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Bill To</shortDescription>
+        <value>Bill To</value>
+    </labels>
+    <labels>
+        <fullName>BillingFrequency</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Billing Frequency</shortDescription>
+        <value>Billing Frequency</value>
+    </labels>
+    <labels>
+        <fullName>ContractEndDate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Contract End date</shortDescription>
+        <value>Contract End date</value>
+    </labels>
+    <labels>
+        <fullName>Date</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Date</shortDescription>
+        <value>Date</value>
+    </labels>
+    <labels>
+        <fullName>DeliveryOrder</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Delivery Order</shortDescription>
+        <value>Delivery Order</value>
+    </labels>
+    <labels>
+        <fullName>DeliveryOrderFor</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Delivery Order  for</shortDescription>
+        <value>Delivery Order  for</value>
+    </labels>
+    <labels>
+        <fullName>DeliveryOrderManager</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Delivery Order Manager</shortDescription>
+        <value>Delivery Order Manager</value>
+    </labels>
+    <labels>
+        <fullName>Description</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Description</shortDescription>
+        <value>Description</value>
+    </labels>
+    <labels>
+        <fullName>FreightOperator</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Freight Operator</shortDescription>
+        <value>Freight Operator</value>
+    </labels>
+    <labels>
+        <fullName>Image</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Image</shortDescription>
+        <value>Image</value>
+    </labels>
+    <labels>
+        <fullName>InvoiceDate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Invoice Date</shortDescription>
+        <value>Invoice Date</value>
+    </labels>
+    <labels>
+        <fullName>InvoiceFor</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Invoice for</shortDescription>
+        <value>Invoice for</value>
+    </labels>
+    <labels>
+        <fullName>InvoiceNumber</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Invoice number</shortDescription>
+        <value>Invoice number</value>
+    </labels>
+    <labels>
+        <fullName>Name</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Name</shortDescription>
+        <value>Name</value>
+    </labels>
+    <labels>
+        <fullName>NumberOfParcels</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Number of parcels</shortDescription>
+        <value>Number of parcels</value>
+    </labels>
+    <labels>
+        <fullName>OfferValidThrough</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Offer valid Through</shortDescription>
+        <value>Offer valid Through</value>
+    </labels>
+    <labels>
+        <fullName>PaymentMethod</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Payment Method</shortDescription>
+        <value>Payment Method</value>
+    </labels>
+    <labels>
+        <fullName>PaymentTerms</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Payment Terms</shortDescription>
+        <value>Payment Terms</value>
+    </labels>
+    <labels>
+        <fullName>Product</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Product</shortDescription>
+        <value>Product</value>
+    </labels>
+    <labels>
+        <fullName>Products</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Products</shortDescription>
+        <value>Products</value>
+    </labels>
+    <labels>
+        <fullName>ProposedBy</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Proposed by</shortDescription>
+        <value>Proposed by</value>
+    </labels>
+    <labels>
+        <fullName>Quantity</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quantity</shortDescription>
+        <value>Quantity</value>
+    </labels>
+    <labels>
+        <fullName>QuoteNumber</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quote number</shortDescription>
+        <value>Quote number</value>
+    </labels>
+    <labels>
+        <fullName>ShipTo</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Ship To</shortDescription>
+        <value>Ship To</value>
+    </labels>
+    <labels>
+        <fullName>Signature</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Signature</shortDescription>
+        <value>Signature</value>
+    </labels>
+    <labels>
+        <fullName>SpecialTerms</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Special Terms</shortDescription>
+        <value>Special Terms</value>
+    </labels>
+    <labels>
+        <fullName>StartDate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Start date</shortDescription>
+        <value>Start date</value>
+    </labels>
+    <labels>
+        <fullName>TermsAndConditions</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Terms and Conditions</shortDescription>
+        <value>Terms and Conditions</value>
+    </labels>
+    <labels>
+        <fullName>Title</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Title</shortDescription>
+        <value>Title</value>
+    </labels>
+    <labels>
+        <fullName>Total</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Total</shortDescription>
+        <value>Total</value>
+    </labels>
+    <labels>
+        <fullName>TotalPrice</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Total Price</shortDescription>
+        <value>Total Price</value>
+    </labels>
+    <labels>
+        <fullName>TrackingNumber</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Tracking Number</shortDescription>
+        <value>Tracking Number</value>
+    </labels>
+    <labels>
+        <fullName>UnitPrice</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Unit Price</shortDescription>
+        <value>Unit Price</value>
+    </labels>
+</CustomLabels>
